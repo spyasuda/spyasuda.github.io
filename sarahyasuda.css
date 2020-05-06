@@ -36,7 +36,7 @@ body {
 .main {
   padding-left: 70px;
   padding-right:10px;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: courier;
   width:90%;
 }
 
@@ -103,4 +103,8 @@ body {
   .sidenav{
     font-size: 20px;
   }
+}
+
+.tab {
+  margin-left: 40px;
 }
