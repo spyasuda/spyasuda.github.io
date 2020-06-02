@@ -40,6 +40,14 @@ body {
   width:90%;
 }
 
+.main p:before{
+  content:"";
+  width:10em;
+  display: block;
+  overflow: hidden;
+  
+}
+
 .tottoriphoto {
   max-width: 100%;
   height: auto;
